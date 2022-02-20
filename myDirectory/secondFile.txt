@@ -5,3 +5,4 @@ je faire une formation en git
   git add . pour ajouter des fichier en repository local 
   git commit -m "" pour commiter les ficher en repository local -m "en inserer un message bien décriver les mise a jour dans le projet"
  dddd
+ une modification de code
