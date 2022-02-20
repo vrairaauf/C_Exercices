@@ -4,3 +4,4 @@ je faire une formation en git
 3:git init pour initialiser git dans mon projet 
   git add . pour ajouter des fichier en repository local 
   git commit -m "" pour commiter les ficher en repository local -m "en inserer un message bien décriver les mise a jour dans le projet"
+ dddd
